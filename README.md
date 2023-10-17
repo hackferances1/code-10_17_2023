@@ -17,5 +17,8 @@ uploaded 10/17/2023
   code that use accepted tecnology
  4-high tecnology
   included mathematic,algorithm,or c++ expert skills
+ each project include a exe,cpp,and extra file if need to run the code
+ the main code is in the cpp file
+ to run the code, jjust click exe file
 
 OpenGL-include glut learning and example code
